@@ -1,5 +1,5 @@
 # assinaturaDD   - Testar vizualização pelo link: https://www.lncc.br/~borges/php/testar.html
-Assinatura para email - Via Campinas Tech
+Assinatura para email - conta pessoal
 
 <table class="sc-jDwBTQ dWtMUn" style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: Verdana;" cellspacing="0" cellpadding="0">
 <tbody>
@@ -32,14 +32,6 @@ Assinatura para email - Via Campinas Tech
 <h3 class="sc-jhAzac hmXDXQ" style="margin: 0px; font-size: 18px; color: #690e8e;">Dayse&nbsp;Alexia</h3>
 <p class="sc-fBuWsC eeihxG" style="margin: 0px; color: #e8c020; font-size: 14px; line-height: 22px;">Community Manager &amp;</p>
 <p class="sc-fMiknA bxZCMx" style="margin: 0px; font-weight: 500; color: #e8c020; font-size: 14px; line-height: 22px;">Business Strategy</p>
-<table style="border-collapse: collapse; width: 100%; height: 17px;" border="1">
-<tbody>
-<tr style="height: 17px;">
-<td style="width: 12.5%; height: 17px;">&nbsp;</td>
-<td style="width: 12.5%; height: 17px;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
 <table class="sc-jDwBTQ dWtMUn" style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: Verdana; height: 51px;" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="vertical-align: middle;">
